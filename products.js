@@ -1,4 +1,3 @@
-// products.js — vanilla JS: fetch products and render list
 const PRODUCTS_LIST_EL = document.getElementById('products-list');
 
 async function fetchProducts() {
@@ -48,3 +47,4 @@ function escapeHtml(str){
 }
 
 fetchProducts();
+

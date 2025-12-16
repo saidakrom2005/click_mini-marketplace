@@ -8,4 +8,4 @@
 <img width="292" height="833" alt="image" src="https://github.com/user-attachments/assets/e696658f-27af-4462-8674-126185b2e7a8" />
 
 
-• Ссылка на демо (если есть):
+• Ссылка на демо (если есть):https://saidakrom2005.github.io/click_mini-marketplace/
